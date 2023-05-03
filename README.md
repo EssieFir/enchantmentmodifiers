@@ -1,4 +1,4 @@
-# enchantmodifertextures
+# Enchantment Modifers
 Make enchantments act like Tinkers' Modifers
 <h4>
 
