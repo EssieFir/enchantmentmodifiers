@@ -1,6 +1,6 @@
 ﻿{
     "pack": {
-        "pack_format": 13,
-        "description": "Make enchantments look like Tinkers' Modifers"
+        "pack_format": 9,
+        "description": "Enchants like Tinkers' Modifers\nRequires Chime!"
     }
 }
