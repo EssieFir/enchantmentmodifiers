@@ -1,0 +1,8 @@
+{
+  "overrides": [
+    {
+      "predicate": { "nbt": {"Enchantments": [{"id":"minecraft:looting"}]}},
+      "model": "modifier_textures:item/override/sword/looting/wood"
+    }
+  ]
+}

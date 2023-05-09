@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "predicate": { "nbt": {"Enchantments": [{"id":"minecraft:fortune"}]}},
+      "model": "modifier_textures:item/override/pickaxe/fortune/diamond"
+    },
+    {
+      "predicate": { "nbt": {"Enchantments": [{"id":"minecraft:silk_touch"}]}},
+      "model": "modifier_textures:item/override/pickaxe/silk_touch/diamond"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "predicate": { "nbt": {"Enchantments": [{"id":"minecraft:fortune"}]}},
+      "model": "modifier_textures:item/override/axe/fortune/gold"
+    },
+    {
+      "predicate": { "nbt": {"Enchantments": [{"id":"minecraft:silk_touch"}]}},
+      "model": "modifier_textures:item/override/axe/silk_touch/gold"
+    }
+  ]
+}

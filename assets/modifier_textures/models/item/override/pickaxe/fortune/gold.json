@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "modifier_textures:item/override/pickaxe/fortune/gold"
+  }
+}
