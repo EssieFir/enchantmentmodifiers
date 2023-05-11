@@ -1,6 +1,7 @@
 # Enchantment Modifers
 
-Make enchantments act like Tinkers' Modifers ![fortune](https://user-images.githubusercontent.com/65592600/235930835-d9fa23c8-3c49-45bd-8d00-f45dd058ab06.png)
+Make enchantments look like Tinkers' Modifers ![fortune](https://user-images.githubusercontent.com/65592600/235930835-d9fa23c8-3c49-45bd-8d00-f45dd058ab06.png)<br/>
+Download on [Modrinth](https://modrinth.com/resourcepack/enchantment-modifiers)
 <h4>
 
 Requires [CIT Resewn](https://modrinth.com/mod/cit-resewn) or [OptiFine](https://www.optifine.net/home) to function
@@ -15,3 +16,11 @@ Currently only supports Fortune, Silk Touch & Looting
 
 ![Image](https://cdn-raw.modrinth.com/data/SuJ8zxjT/images/5ffa7e8483c634edef69465e3aefca277a5d4d7a.png)
 ![Image](https://cdn-raw.modrinth.com/data/SuJ8zxjT/images/2a68aa4f553e2f72fb57b2b394d80451867309fa.png)
+
+## To-do
+
+- [x] Pickaxes
+- [ ] Axes
+- [ ] Shovels
+- [ ] Hoes
+- [ ] Swords
