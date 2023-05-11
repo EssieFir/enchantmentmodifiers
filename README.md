@@ -1,6 +1,7 @@
 # Enchantment Modifers (Chime)
 
-Make enchantments act like Tinkers' Modifers ![fortune](https://user-images.githubusercontent.com/65592600/235930835-d9fa23c8-3c49-45bd-8d00-f45dd058ab06.png)
+Make enchantments act like Tinkers' Modifers ![fortune](https://user-images.githubusercontent.com/65592600/235930835-d9fa23c8-3c49-45bd-8d00-f45dd058ab06.png)<br/>
+Download on [Modrinth](https://modrinth.com/resourcepack/enchantment-modifiers)
 <h4>
 
 Requires [Chime](https://modrinth.com/mod/chime) to function
