@@ -20,7 +20,8 @@ Currently only supports Fortune, Silk Touch & Looting
 ## To-do
 
 - [x] Pickaxes
-- [ ] Axes
+- [x] Axes
 - [ ] Shovels
 - [ ] Hoes
+- [ ] Axes (sharpness and such)
 - [ ] Swords
