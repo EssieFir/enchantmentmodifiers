@@ -23,4 +23,5 @@ Currently only supports Fortune, Silk Touch & Looting
 - [x] Axes
 - [ ] Shovels
 - [ ] Hoes
+- [ ] Axes (sharpness and such)
 - [ ] Swords
