@@ -16,12 +16,3 @@ Currently only supports Fortune, Silk Touch & Looting
 
 ![Image](https://cdn-raw.modrinth.com/data/SuJ8zxjT/images/5ffa7e8483c634edef69465e3aefca277a5d4d7a.png)
 ![Image](https://cdn-raw.modrinth.com/data/SuJ8zxjT/images/2a68aa4f553e2f72fb57b2b394d80451867309fa.png)
-
-## To-do
-
-- [x] Pickaxes
-- [x] Axes
-- [x] Shovels
-- [x] Hoes
-- [x] Axes (sharpness and such)
-- [ ] Swords
